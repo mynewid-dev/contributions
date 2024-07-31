@@ -1,7 +1,7 @@
 # WeatherApp
 
 WeatherApp is a simple and intuitive application that allows users to fetch and display current weather information for different locations using the OpenWeatherMap API.
-b
+
 ## Table of Contents
 
 - [Features](#features)
